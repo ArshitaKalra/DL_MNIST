@@ -1,2 +1,2 @@
 # DL_MNIST
-Classification of MNIST dataset using Keras
+Classification of Handwritten numbers in MNIST dataset using Keras
